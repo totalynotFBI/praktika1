@@ -7,3 +7,4 @@ function shuffleArray(arr) {
 }
 let arr = [1, 2, 3, 4, 5];
 shuffleArray(arr)
+console.log("done again")//cm Emiljano
